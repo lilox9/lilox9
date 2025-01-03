@@ -1,6 +1,7 @@
 ## Hello, I am Bilal. An IT Intern
-## - 🔭 I’m currently working on IT projects
-## - 🌱 I’m currently learning Networking, Operating Systems, and Information Security
+---------------------------------------------------------------------------------------
+<h1>## - 🔭 I’m currently working on IT projects</h1>
+<h2>## - 🌱 I’m currently learning Networking, Operating Systems, and Information Security</h2>
 
 <!--
 **lilox9/lilox9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
